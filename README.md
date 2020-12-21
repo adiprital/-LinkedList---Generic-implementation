@@ -1,5 +1,5 @@
 # -LinkedList---Generic-implementation
-A generic implementation of 'MyLinkedList <E>', supports the operations of:<br />
+A generic implementation of 'MyLinkedList < E >', supports the operations of:<br />
 * getHead - returns the NodeList<E> of the begining of the list<br />
 * setHead - set a new NodeList<E> to the begining of the list<br />
 * getTail - returns the NodeList<E> of the end of the list<br />
